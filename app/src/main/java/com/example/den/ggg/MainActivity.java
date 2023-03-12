@@ -32,8 +32,6 @@ public class MainActivity extends AppCompatActivity {
 
             sqdb.close();
             mydb.close();
-
         }
     }
-
 }
